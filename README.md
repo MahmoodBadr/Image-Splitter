@@ -1,6 +1,6 @@
 # Image-Splitter
 
-Image Splitter is a Python program that allows you to split images into sub-images based on user-defined coordinates
+Image Splitter is a Python program that allows you to split images into sub-images based on user-defined pixel coordinates
 
 ![Program_Image.png](Program_Image.png "Image of the Program")
 
